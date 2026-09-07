@@ -105,7 +105,7 @@ export default function Hero() {
                 {/* Moldura da Foto */}
                 <div className="relative z-10 w-72 h-88 sm:w-80 sm:h-96 rounded-[2rem] overflow-hidden border-4 border-white shadow-2xl bg-autumn-100 group">
                   <img
-                    src="/images/aline-perfil.jpg"
+                    src="./images/aline-perfil.jpg"
                     alt="Aline Vitória Nunes Barros"
                     className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700 ease-out"
                   />
