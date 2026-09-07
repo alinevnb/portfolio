@@ -26,7 +26,7 @@ export const alfajorBusiness = {
   title: "Alfajores da Aline",
   subtitle: "Microempreendedorismo Doce no Campus IFAC",
   description: "Um projeto que nasceu da vontade de empreender e levar momentos doces para o dia a dia da comunidade acadêmica no IFAC. Cada alfajor é preparado artesanalmente com ingredientes selecionados, recheio caprichado e embalagem feita com muito afeto.",
-  image: "/images/alfajor-artesanal.jpg",
+  image: "./images/alfajor-artesanal.jpg",
   highlights: [
     {
       title: "Produção 100% Artesanal",
